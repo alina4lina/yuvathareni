@@ -1,0 +1,62 @@
+﻿body{
+	background-color:#f8f4ec;
+
+}
+.row1{
+	
+	width:500px;
+	height:600px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.dearuv{
+	font-family: 'Noto Serif', serif;
+	margin-left:30px;
+	font-size:30px;
+	color:#8c2f39;}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.why{
+	font-family: 'Noto Serif', serif;
+	margin-left:30px;
+	font-size:20px;
+text-align:justify;
+
+
+	
+}
+.row2{
+	margin-top:100px;
+	float:right;
+	width:500px;
+	height:400px;
+	
+}
+.remind{
+font-family: 'Noto Serif', serif;
+	margin-top:100px;
+	margin-left:30px;
+	font-size:30px;
+	color:#461220;}
+
+.gallery{
+	margin-top:100px;
+	width:400px;
+	height:490px;
+	padding:16px;
+}
+.gallery1{
+	margin-top:10px;
+	width:400px;
+	height:450px;
+	padding:16px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+p.solid {
+color:#808080;
+max-width:100%;
+margin-top:30px;
+margin-bottom:30px;
+text-align:center;
+font-family:"Arial Black"}
+
+
+
